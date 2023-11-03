@@ -1,0 +1,245 @@
+{
+  "LedBlink": {
+    "name": "Arduino 101: Blink LED",
+    "description": "Take the first step to Arduino basics by blinking an LED using blockly.",
+    "tags": ["arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/blinkled.jpg",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": false,
+    "urlId": "LedBlink"
+  },
+  "LedFade": {
+    "name": "Analog Write: LED Fade",
+    "description": "Learn analog basics by fading an LED using blockly.",
+    "tags": ["arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/fadeled.jpg",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": false,
+    "urlId": "LedFade"
+  },
+  "DHT11LCD": {
+    "name": "DHT11 Temp & Humidity",
+    "description": "Display DHT11 temp & humidity readings on an 16x2 I2C LCD.",
+    "tags": ["arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/dht11lcd.jpg",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": false,
+    "urlId": "DHT11LCD"
+  },
+  "SentimentDisplay": {
+    "name": "Sentiments: ML & Arduino",
+    "description": "Display sentiment analysis on a dot matrix display.",
+    "tags": ["arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/sentimentDisplay.png",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": false,
+    "urlId": "SentimentDisplay"
+  },
+  "PoliceSiren": {
+    "name": "Police Siren",
+    "description": "Make colorful light & effects using NeoPixels.",
+    "tags": ["arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/policeSiren.jpg",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": false,
+    "urlId": "PoliceSiren"
+  },
+  "UltrasonicDispenser": {
+    "name": "Ultrasonic Dispenser",
+    "description": "Automatic dispenser using ultrasonic distance sensor and servo motor.",
+    "tags": ["arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/ultrasonicDispenser.jpg",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": false,
+    "urlId": "UltrasonicDispenser"
+  },
+  "VideoDoorBell": {
+    "name": "Smart Video Door Bell",
+    "description": "Smart door bell that sends push notification with camera feed.",
+    "tags": ["arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/videoDoorBell.jpg",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": false,
+    "urlId": "VideoDoorBell"
+  },
+  "MissileLaunch": {
+    "name": "Missile Launch",
+    "description": "Use I2C LCD & membrane keypad to create missile launch control panel.",
+    "tags": ["arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/missileLaunch.jpg",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": false,
+    "urlId": "MissileLaunch"
+  },
+  "ElectronicsSafe": {
+    "name": "Electronics Safe",
+    "description": "Passcode protected electronics safe using LCD, keypad & Servo motor.",
+    "tags": ["arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/electronicssafe.png",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": false,
+    "urlId": "ElectronicsSafe"
+  },
+  "ConversationsStateMachine": {
+    "name": "State Machine: Conversations",
+    "description": "Build and narrate your story using state machine and text to speech in scratch.",
+    "tags": ["scratch"],
+    "img": "https://sb3.codeskool.cc/assets/images/conversations.jpg",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": false,
+    "urlId": "ConversationsStateMachine"
+  },
+  "FlappyBird": {
+    "name": "Flappy Bird",
+    "description": "Bring virtual games to the physical world.",
+    "tags": ["games"],
+    "img": "https://sb3.codeskool.cc/assets/images/flappybird.jpg",
+    "insetIconURL": "iconGame",
+    "isMemberOnly": false,
+    "urlId": "FlappyBird"
+  },
+  "SpellMaster": {
+    "name": "Spell Master: Learn to Spell",
+    "description": "Show spellings of any spoken work using text to speech in scratch.",
+    "tags": ["scratch"],
+    "img": "https://sb3.codeskool.cc/assets/images/spellmaster.jpg",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": false,
+    "urlId": "SpellMaster"
+  },
+  "Vocabulary": {
+    "name": "Vocabulary Builder",
+    "description": "Learn new words, play games that improve your vocabulary.",
+    "tags": ["scratch"],
+    "img": "https://sb3.codeskool.cc/assets/images/vocabulary.jpg",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": false,
+    "urlId": "Vocabulary"
+  },
+  "PicoLedPulse": {
+    "name": "LED Pulse",
+    "description": "Create a pulse glowing effect using LED.",
+    "tags": ["mpython"],
+    "img": "https://sb3.codeskool.cc/assets/images/pico_led_pulse.jpg",
+    "insetIconURL": "iconMPython",
+    "isMemberOnly": false,
+    "urlId": "PicoLedPulse"
+  },
+  "PicoButtonLEDToggle": {
+    "name": "PushButton controlled LED",
+    "description": "Check if a Button is pressed and toggle LED state.",
+    "tags": ["mpython"],
+    "img": "https://sb3.codeskool.cc/assets/images/pico_button_led_control.jpg",
+    "insetIconURL": "iconMPython",
+    "isMemberOnly": false,
+    "urlId": "PicoButtonLEDToggle"
+  },
+  "PicoRGBLEDDemo": {
+    "name": "RGB LED Demo",
+    "description": "Display colors & control intensity of an RGB LED.",
+    "tags": ["mpython"],
+    "img": "https://sb3.codeskool.cc/assets/images/pico_rgb_led_demo.jpg",
+    "insetIconURL": "iconMPython",
+    "isMemberOnly": false,
+    "urlId": "PicoRGBLEDDemo"
+  },
+  "PicoRGBPulse": {
+    "name": "RGB Pulse",
+    "description": "Use pulse to gradually change the LED between colours.",
+    "tags": ["mpython"],
+    "img": "https://sb3.codeskool.cc/assets/images/pico_rgb_pulse.jpg",
+    "insetIconURL": "iconMPython",
+    "isMemberOnly": false,
+    "urlId": "PicoRGBPulse"
+  },
+  "PicoSpeakerPlayNotes": {
+    "name": "Speaker Play Notes",
+    "description": "Play individual notes & control the timing or perform another action.",
+    "tags": ["mpython"],
+    "img": "https://sb3.codeskool.cc/assets/images/pico_speaker_play_notes.jpg",
+    "insetIconURL": "iconMPython",
+    "isMemberOnly": false,
+    "urlId": "PicoSpeakerPlayNotes"
+  },
+  "93729612-047c-49e3-ae3f-3b16f6c697e6": {
+    "name": "Joystick Control",
+    "description": "Control movement of sprites using JoyStick and Pico W.",
+    "tags": ["scratch", "hardware"],
+    "img": "https://sb3.codeskool.cc/assets/images/pico_joystick.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "93729612-047c-49e3-ae3f-3b16f6c697e6"
+  },
+  "ca416888-e5fc-4989-88f8-9d1abeb14b86": {
+    "name": "RFID Tag Reader",
+    "description": "Read NFC cards or tags using Arduino & MFRC522 RFID reader.",
+    "tags": ["arduino", "hardware"],
+    "img": "https://sb3.codeskool.cc/assets/images/mfrc522.png",
+    "insetIconURL": "iconArduino",
+    "isMemberOnly": true,
+    "urlId": "ca416888-e5fc-4989-88f8-9d1abeb14b86"
+  },
+  "bb676934-f7e1-4526-9371-4487dff647a1": {
+    "name": "Traffic Light",
+    "description": "Design a traffic light system using TM1637 & Pico W.",
+    "tags": ["scratch", "hardware"],
+    "img": "https://sb3.codeskool.cc/assets/images/trafficlight_picow.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "bb676934-f7e1-4526-9371-4487dff647a1"
+  },
+  "bb0eda0f-6881-4e49-a6c0-56a7782add45": {
+    "name": "Real Time Digital Clock",
+    "description": "Make a real time digital clock using TM1637 & Pico W.",
+    "tags": ["scratch", "hardware"],
+    "img": "https://sb3.codeskool.cc/assets/images/digitalclock_picow.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "bb0eda0f-6881-4e49-a6c0-56a7782add45"
+  },
+  "411e2f54-fc80-4ef3-90fe-dc57aecb606c": {
+    "name": "LCD Billboard",
+    "description": "Scroll text on an I2C 1602 LCD to create a billboard using Pico W.",
+    "tags": ["scratch", "hardware"],
+    "img": "https://sb3.codeskool.cc/assets/images/billboard_picow.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "411e2f54-fc80-4ef3-90fe-dc57aecb606c"
+  },
+  "bf74e8d6-54a4-480b-9f9e-5d0187eed979": {
+    "name": "Token Generator",
+    "description": "Generate and display queue token on button press.",
+    "tags": ["scratch", "hardware"],
+    "img": "https://sb3.codeskool.cc/assets/images/token_button_uno.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "bf74e8d6-54a4-480b-9f9e-5d0187eed979"
+  },
+  "0051e311-db81-4583-aff6-4e594ae763c7": {
+    "name": "Voice Command Activated Lights",
+    "description": "Control Neopixel LEDs with a Pico W using voice commands.",
+    "tags": ["scratch", "hardware"],
+    "img": "https://sb3.codeskool.cc/assets/images/voice_led_picow.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "0051e311-db81-4583-aff6-4e594ae763c7"
+  },
+  "af089fc3-d1a1-41f6-a539-16c140711f63": {
+    "name": "Asteroid Shooter",
+    "description": "A simple asteroid shooting game to learn game development.",
+    "tags": ["scratch", "games"],
+    "img": "https://sb3.codeskool.cc/assets/images/asteroid_shooter.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "af089fc3-d1a1-41f6-a539-16c140711f63"
+  },
+  "77d811e3-73ed-485b-bfec-3cfcf5f00e85": {
+    "name": "Weather Station",
+    "description": "Monitor, log and plot temperature & humidity with DHT11 & Pico W.",
+    "tags": ["scratch", "arduino"],
+    "img": "https://sb3.codeskool.cc/assets/images/weather_station.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "77d811e3-73ed-485b-bfec-3cfcf5f00e85"
+  }
+}
