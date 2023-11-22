@@ -241,5 +241,14 @@
     "insetIconURL": "iconBlockly",
     "isMemberOnly": true,
     "urlId": "77d811e3-73ed-485b-bfec-3cfcf5f00e85"
+  },
+  "b1d885d5-1343-47e4-bfdd-bfb8085faaad": {
+    "name": "Pico W Led Blink",
+    "description": "Blink the onboard LED on the Pico W board using Scratch.",
+    "tags": ["scratch", "hardware"],
+    "img": "https://sb3.codeskool.cc/assets/images/pico_w_led_blink.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "b1d885d5-1343-47e4-bfdd-bfb8085faaad"
   }
 }
