@@ -250,5 +250,14 @@
     "insetIconURL": "iconBlockly",
     "isMemberOnly": true,
     "urlId": "b1d885d5-1343-47e4-bfdd-bfb8085faaad"
+  },
+  "3ed4a4b1-ce3d-43f2-84e9-e70350496fe8": {
+    "name": "Python Turtle",
+    "description": "Learn Python basics by drawing shapes using turtle.",
+    "tags": ["python"],
+    "img": "https://sb3.codeskool.cc/assets/images/turtle.png",
+    "insetIconURL": "iconBlockly",
+    "isMemberOnly": true,
+    "urlId": "3ed4a4b1-ce3d-43f2-84e9-e70350496fe8"
   }
 }
